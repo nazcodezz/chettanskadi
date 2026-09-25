@@ -1,0 +1,6 @@
+{
+  "name": "ChettanKadi – College Tea & Snacks Delivery",
+  "description": "Campus tea, coffee, and fresh snacks delivery app for college students, Chettan delivery runners, and canteen managers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
